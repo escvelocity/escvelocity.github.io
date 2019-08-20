@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f8b46dc.chunk.css",
+    "main.js": "/static/js/main.c1a4979e.chunk.js",
+    "main.js.map": "/static/js/main.c1a4979e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.3ff6abe0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.3ff6abe0.js.map",
+    "static/css/2.62908225.chunk.css": "/static/css/2.62908225.chunk.css",
+    "static/js/2.c985406a.chunk.js": "/static/js/2.c985406a.chunk.js",
+    "static/js/2.c985406a.chunk.js.map": "/static/js/2.c985406a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec14321d1c639a519b0ea69d5982eef8.js": "/precache-manifest.ec14321d1c639a519b0ea69d5982eef8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.62908225.chunk.css.map": "/static/css/2.62908225.chunk.css.map",
+    "static/css/main.7f8b46dc.chunk.css.map": "/static/css/main.7f8b46dc.chunk.css.map",
+    "static/media/Dice-0.svg": "/static/media/Dice-0.e1a84b66.svg",
+    "static/media/Dice-1.svg": "/static/media/Dice-1.1192cb54.svg",
+    "static/media/Dice-2-b.svg": "/static/media/Dice-2-b.cb855bd3.svg",
+    "static/media/Dice-3-b.svg": "/static/media/Dice-3-b.6e06b439.svg",
+    "static/media/Dice-4.svg": "/static/media/Dice-4.5f9fb5bd.svg",
+    "static/media/Dice-5-b.svg": "/static/media/Dice-5-b.be6d963e.svg",
+    "static/media/Dice-6-b.svg": "/static/media/Dice-6-b.9b3f333a.svg"
+  }
+}
